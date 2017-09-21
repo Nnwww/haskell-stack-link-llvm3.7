@@ -1,5 +1,5 @@
 FROM nnwww/haskell-stack-link
-LABEL description="Builds API static binary with llvm3.7 (for ghc8)"
+LABEL description="Builds static binary with llvm3.7 (for ghc8)"
 MAINTAINER Nnwww <johndororo@gmail.com>
 
 # install llvm3.7
